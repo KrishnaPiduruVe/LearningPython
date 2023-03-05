@@ -1,0 +1,53 @@
+'''
+There is no seperate team going forward for testing
+
+Developer must be the tester in future
+
+Testing :
+    1. Unit Testing : 
+        The process of testing each unit 
+    2. Integration Testing : 
+        end to end testing after integrating each unit
+    
+    Final testing is superior or final level testing
+
+The process of testing whether a particular unit is working properly or not is called unit testing. --- Developer
+The process of total application end to end is called integration testing --- QA 
+'''
+
+
+'''
+Test Scenario
+Test Case
+Test Suite
+
+I developed gmail application
+
+
+this testing will be divided in to multiple scenerios
+1. testing login functionality -- > Test Scenerio
+    1.1 with valid user and valid password  ---> Test case 1 
+    1.2 with invalid user and valid password ---> Test case 2
+    1.3 empty user and password  ---> Test case 3
+2. testing inbox functionality
+
+[Test Case 1  +  Test Case 2  + Test Case 3] ====> Test Suite (testing as a group or batch)
+
+'''
+
+'''
+How to perform unit testing in Python:
+
+inbuilt module name : unittest 
+class name : TestCase
+instance methods : 3 methods
+                        1. setUp()
+                        2. test()
+                        3. tearDown()
+class methods : 2 methods
+                    1.setUpClass(cls)
+                    2.tearDownClass(cls)
+
+class TestCaseDemo(TestCase):
+    
+'''
