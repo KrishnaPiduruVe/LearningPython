@@ -49,5 +49,14 @@ class methods : 2 methods
                     2.tearDownClass(cls)
 
 class TestCaseDemo(TestCase):
+
+
+Lets say 10 test methods are there
+
+setUp() --> 10 times
+tearDown() ---> 10 times 
+setUpClass(cls) ---> 1 time  
+tearDownClass(cls) ---> 1 time 
+
     
 '''
