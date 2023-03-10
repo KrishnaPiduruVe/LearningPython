@@ -1,4 +1,3 @@
-
 def test_methodA(setUptearDownClass, setUptearDownMethod):
     print('test_methodA execution')
 
@@ -27,7 +26,5 @@ def test_methodC(setUptearDownMethod, setUptearDownClass):
 # test_methodB execution
 # PASSEDconftest.py :  teardown method from setUptearDownMethod
 # conftest.py :  teardownClass method from setUptearDownClass
-
-
 # ====================================================================== 2 passed in 0.03s =======================================================================
 # PS D:\work\Mosh\LearningPython\durga\unit_testing\pytest_folder>
