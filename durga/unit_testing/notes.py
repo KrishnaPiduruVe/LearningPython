@@ -167,3 +167,57 @@ PyTest naming rules :
 # D:\work\Mosh\LearningPython\durga\unit_testing\pytest_folder> py.test test_pytest_demo1.py   just run 2 test cases from only demo1 file
 # D:\work\Mosh\LearningPython\durga\unit_testing\pytest_folder> py.test test_pytest_demo2.py -s if you want to see print statement outputs
 # D:\work\Mosh\LearningPython\durga\unit_testing\pytest_folder> py.test test_pytest_demo2.py -s -v if you want to see print statements with details/verbose
+
+
+''' 
+pytest dont have any special methods like setUp(),tearDown(),setUpClass(),tearDownClass()
+
+By using some decorator/annotation we can implement above methods
+
+To implement setUp()
+@pytest.fixture()  ===> setUp() 
+
+@pytest.yield_fixture() ===> setUp() + tearDown()
+
+@pytest.yield_fixture() ===> setUp() || tearDown() || setUp() + tearDown()
+def m1():
+    setUp activity
+    yield
+    tearDown activity
+
+@pytest.yield_fixture()  ===> only tearDown()
+def m1():
+    yield
+    tearDown activity
+
+
+@pytest.yield_fixture()  ===> only setUp()
+def m1():
+   setUp activity
+
+
+How to Implement setUpClass() and tearDownClass() in pytest:
+
+@pytest.yield_fixture(scope='module'): # default scope is function
+def m1():
+    code
+
+How to Implement setUp(),tearDown() and setUpClass() and tearDownClass() simultaneously
+
+@pytest.yield_fixture(): # default scope is function
+def setUptearDownMethod():
+    setup()
+    yield
+    tearDown()
+    
+@pytest.yield_fixture(scope='module'): # default scope is function
+def setUptearDownClass():
+    setupClass()
+    yield
+    tearDownClass()
+
+'''
+# D:\work\Mosh\LearningPython\durga\unit_testing\pytest_folder> py.test test_pytest_demo3.py -sv
+# D:\work\Mosh\LearningPython\durga\unit_testing\pytest_folder> py.test test_pytest_demo4.py -sv
+# D:\work\Mosh\LearningPython\durga\unit_testing\pytest_folder> py.test test_pytest_demo5.py -sv
+# D:\work\Mosh\LearningPython\durga\unit_testing\pytest_folder> py.test test_pytest_demo6.py -sv

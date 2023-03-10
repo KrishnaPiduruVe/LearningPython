@@ -1,0 +1,112 @@
+1678413463371	geckodriver	INFO	Listening on 127.0.0.1:61876
+1678413466457	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61877" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\venka\\AppData\\Local\\Temp\\rust_mozprofilefxgLwf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678413467388	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678413467397	Marionette	INFO	Listening on port 61886
+Read port: 61886
+WebDriver BiDi listening on ws://127.0.0.1:61877
+1678413467638	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\venka\\AppData\\Local\\Temp\\rust_mozprofilefxgLwf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61877/devtools/browser/2ac753ac-607d-4804-aec5-1829bd579b73
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/2g1x3zzt0edudc5kigbbuv7sx, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/2g1x3zzt0edudc5kigbbuv7sx, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static.licdn.com/aero-v1/sc/h/2g1x3zzt0edudc5kigbbuv7sx, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/dskpsj8jeedl281kwfc60bu4t, line 19249: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/72lbqpia0hb9ks1qt0w2ahhhf, line 2693: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dskpsj8jeedl281kwfc60bu4t, line 19249: unreachable code after return statement
+1678413540901	Marionette	INFO	Stopped listening on port 61886
+Dynamically enable window occlusion 1
+1678413564736	geckodriver	INFO	Listening on 127.0.0.1:62019
+1678413567846	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62020" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\venka\\AppData\\Local\\Temp\\rust_mozprofileGbJasr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678413568393	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678413568402	Marionette	INFO	Listening on port 62028
+Read port: 62028
+WebDriver BiDi listening on ws://127.0.0.1:62020
+1678413568592	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\venka\\AppData\\Local\\Temp\\rust_mozprofileGbJasr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62020/devtools/browser/ed6f7dab-a34a-4c0b-867e-1b1672e3530b
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/2g1x3zzt0edudc5kigbbuv7sx, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/2g1x3zzt0edudc5kigbbuv7sx, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static.licdn.com/aero-v1/sc/h/2g1x3zzt0edudc5kigbbuv7sx, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/dskpsj8jeedl281kwfc60bu4t, line 19249: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/72lbqpia0hb9ks1qt0w2ahhhf, line 2693: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/72lbqpia0hb9ks1qt0w2ahhhf, line 2693: unreachable code after return statement
+1678413581875	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1678413615686	Marionette	INFO	Stopped listening on port 62028
+Dynamically enable window occlusion 1
+1678413652209	geckodriver	INFO	Listening on 127.0.0.1:62218
+1678413655254	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62219" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\venka\\AppData\\Local\\Temp\\rust_mozprofileJViBS6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678413655731	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678413655739	Marionette	INFO	Listening on port 62226
+Read port: 62226
+WebDriver BiDi listening on ws://127.0.0.1:62219
+1678413655958	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\venka\\AppData\\Local\\Temp\\rust_mozprofileJViBS6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62219/devtools/browser/fb2f44ee-a278-4ede-8395-3b290c0a1bd6
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/2g1x3zzt0edudc5kigbbuv7sx, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/2g1x3zzt0edudc5kigbbuv7sx, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/dskpsj8jeedl281kwfc60bu4t, line 19249: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/72lbqpia0hb9ks1qt0w2ahhhf, line 2693: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dskpsj8jeedl281kwfc60bu4t, line 19249: unreachable code after return statement
+1678413700174	Marionette	INFO	Stopped listening on port 62226
+Dynamically enable window occlusion 1
+1678413930470	geckodriver	INFO	Listening on 127.0.0.1:62421
+1678413933545	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62422" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\venka\\AppData\\Local\\Temp\\rust_mozprofileAyFWt4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678413934141	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678413934151	Marionette	INFO	Listening on port 62429
+Read port: 62429
+WebDriver BiDi listening on ws://127.0.0.1:62422
+1678413934410	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\venka\\AppData\\Local\\Temp\\rust_mozprofileAyFWt4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62422/devtools/browser/0b850a5a-2f70-452a-b98c-9e890ef2612f
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/2g1x3zzt0edudc5kigbbuv7sx, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/2g1x3zzt0edudc5kigbbuv7sx, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/dskpsj8jeedl281kwfc60bu4t, line 19249: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/72lbqpia0hb9ks1qt0w2ahhhf, line 2693: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dskpsj8jeedl281kwfc60bu4t, line 19249: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1678414190830	Marionette	INFO	Stopped listening on port 62429
+Dynamically enable window occlusion 1
+1678414208975	geckodriver	INFO	Listening on 127.0.0.1:62755
+1678414212051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62756" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\venka\\AppData\\Local\\Temp\\rust_mozprofileBOF1O7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678414212794	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678414212803	Marionette	INFO	Listening on port 62777
+Read port: 62777
+WebDriver BiDi listening on ws://127.0.0.1:62756
+1678414213035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\venka\\AppData\\Local\\Temp\\rust_mozprofileBOF1O7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62756/devtools/browser/9aa6d474-a9da-4e30-b2da-6527eaee68c5
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/2g1x3zzt0edudc5kigbbuv7sx, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/2g1x3zzt0edudc5kigbbuv7sx, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static.licdn.com/aero-v1/sc/h/2g1x3zzt0edudc5kigbbuv7sx, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static.licdn.com/sc/h/dskpsj8jeedl281kwfc60bu4t, line 19249: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/72lbqpia0hb9ks1qt0w2ahhhf, line 2693: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dskpsj8jeedl281kwfc60bu4t, line 19249: unreachable code after return statement
+1678414256894	Marionette	INFO	Stopped listening on port 62777
+Dynamically enable window occlusion 1
