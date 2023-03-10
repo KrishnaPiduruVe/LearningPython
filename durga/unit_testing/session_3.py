@@ -57,9 +57,6 @@ PyTest naming rules :
     test_method1()
     test_method2()
 
-
-
-
 '''
 
 import unittest
